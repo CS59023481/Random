@@ -10,3 +10,6 @@ int main(){
  
 	printf("Random number1 is %d\n", randomNumber1);
 	printf("Random number2 is %d\n", randomNumber2);
+	printf("Random number3 is %d\n", randomNumber3);
+	getch();
+}
